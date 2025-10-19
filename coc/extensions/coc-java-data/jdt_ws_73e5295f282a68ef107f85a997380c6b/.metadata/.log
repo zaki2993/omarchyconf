@@ -1,0 +1,759 @@
+!SESSION 2025-10-19 18:40:34.644 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/zaki/.config/coc/extensions/coc-java-data/jdt_ws_73e5295f282a68ef107f85a997380c6b
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:38.557
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:38.747
+!MESSAGE Started org.eclipse.buildship.core 148ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:38.747
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:39.074
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:39.154
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:39.157
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:40.894
+!MESSAGE ProjectRegistryRefreshJob finished 2145ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:41.057
+!MESSAGE Setting java.home /usr/lib/jvm/java-25-openjdk as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:41.065
+!MESSAGE Default VM Install changed from  1760895641002-/home/zaki/.config/coc/extensions/coc-java-data/jdk-23.0.2-linux-x64 to 1760895641057-/usr/lib/jvm/java-25-openjdk
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:41.105
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:41.114
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:41.114
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:41.139
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:41.175
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:41.514
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:41.615
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:42.599
+!MESSAGE Workspace initialized in 1460ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:42.664
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:43.975
+!MESSAGE Reconciled 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:44.389
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:44.390
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:44.400
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:44.562
+!MESSAGE Reconciled 1. Took 138 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:45.342
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:45.350
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:45.363
+!MESSAGE Validated 1. Took 199 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:45.964
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:46.201
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:46.366
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:46.401
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:46.867
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:46.868
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:46.874
+!MESSAGE Validated 1. Took 68 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:52.147
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:52.248
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:52.697
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:52.699
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:40:52.703
+!MESSAGE Validated 1. Took 53 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:01.013
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:01.325
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:01.490
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:01.643
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:01.743
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:01.955
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:02.130
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:02.351
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:02.849
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:02.851
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:02.855
+!MESSAGE Validated 1. Took 51 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:03.388
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:03.833
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:03.834
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:03.837
+!MESSAGE Validated 1. Took 46 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:04.514
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:04.752
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:04.944
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:05.099
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:05.100
+!MESSAGE Validated 1. Took 185 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:07.397
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:07.805
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:08.245
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:08.246
+!MESSAGE 2 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:08.249
+!MESSAGE Validated 1. Took 42 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:10.702
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:11.181
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:11.182
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:11.184
+!MESSAGE Validated 1. Took 29 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:11.305
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:11.730
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:11.732
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:11.733
+!MESSAGE Validated 1. Took 27 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:41:15.721
+!MESSAGE Clearing problems for /zaki.java
+!SESSION 2025-10-19 18:49:32.005 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/zaki/.config/coc/extensions/coc-java-data/jdt_ws_73e5295f282a68ef107f85a997380c6b
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-10-19 18:49:37.862
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:41.104
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:41.460
+!MESSAGE Started org.eclipse.buildship.core 240ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:41.463
+!MESSAGE Started org.eclipse.m2e.core 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:42.268
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:42.484
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:42.496
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:44.746
+!MESSAGE ProjectRegistryRefreshJob finished 3282ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:44.863
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:44.864
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:44.903
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:44.913
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:45.213
+!MESSAGE Workspace initialized in 312ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:45.226
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:45.904
+!MESSAGE Reconciled 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:46.044
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:46.044
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:46.048
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:46.082
+!MESSAGE Reconciled 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:46.788
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:46.793
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:46.799
+!MESSAGE Validated 1. Took 65 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:49.186
+!MESSAGE Reconciled 1. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:49.669
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:49.669
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:49.672
+!MESSAGE Validated 1. Took 83 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:49.733
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:54.124
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:54.501
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:54.757
+!MESSAGE Reconciled 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:55.222
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:55.223
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:55.226
+!MESSAGE Validated 1. Took 64 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:55.480
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:56.011
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:56.013
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:49:56.017
+!MESSAGE Validated 1. Took 86 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:03.680
+!MESSAGE Reconciled 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:03.912
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:04.203
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:04.204
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:04.209
+!MESSAGE Validated 1. Took 74 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:06.579
+!MESSAGE Reconciled 1. Took 4 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:07.086
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:07.087
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:07.090
+!MESSAGE Validated 1. Took 58 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:07.739
+!MESSAGE Reconciled 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:07.945
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:08.222
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:08.222
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:08.223
+!MESSAGE Validated 1. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:09.737
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:09.815
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:10.296
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:10.394
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:10.762
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:10.764
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:10.767
+!MESSAGE Validated 1. Took 67 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:13.015
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:13.094
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:13.366
+!MESSAGE Reconciled 1. Took 23 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:13.422
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:13.786
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:13.786
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:13.787
+!MESSAGE Validated 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:14.186
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:14.708
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:14.709
+!MESSAGE 3 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:14.711
+!MESSAGE Validated 1. Took 74 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:15.098
+!MESSAGE Reconciled 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:15.599
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:15.600
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:15.602
+!MESSAGE Validated 1. Took 51 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:16.491
+!MESSAGE Reconciled 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:16.992
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:16.994
+!MESSAGE 3 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:16.998
+!MESSAGE Validated 1. Took 55 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:18.448
+!MESSAGE Reconciled 1. Took 25 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:18.505
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:18.965
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:18.967
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:18.974
+!MESSAGE Validated 1. Took 74 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:23.113
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:23.194
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:23.711
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:23.712
+!MESSAGE 4 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:23.714
+!MESSAGE Validated 1. Took 68 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:24.264
+!MESSAGE Reconciled 1. Took 15 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:24.744
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:24.745
+!MESSAGE 6 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:24.748
+!MESSAGE Validated 1. Took 81 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:27.366
+!MESSAGE Reconciled 1. Took 21 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:27.393
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:27.816
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:27.817
+!MESSAGE 3 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:27.819
+!MESSAGE Validated 1. Took 51 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:31.101
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:31.570
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:31.570
+!MESSAGE 3 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:31.571
+!MESSAGE Validated 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:33.784
+!MESSAGE Reconciled 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:34.063
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:34.555
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:34.556
+!MESSAGE 3 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:34.558
+!MESSAGE Validated 1. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:35.499
+!MESSAGE Reconciled 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:35.726
+!MESSAGE Reconciled 1. Took 27 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:36.145
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:36.651
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:36.655
+!MESSAGE 3 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:36.659
+!MESSAGE Validated 1. Took 109 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:37.202
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:37.524
+!MESSAGE Reconciled 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:38.049
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:38.053
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:38.058
+!MESSAGE Validated 1. Took 76 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:39.307
+!MESSAGE Reconciled 1. Took 39 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:39.488
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:39.790
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:39.791
+!MESSAGE 3 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:39.792
+!MESSAGE Validated 1. Took 28 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:41.778
+!MESSAGE Reconciled 1. Took 44 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:41.843
+!MESSAGE Reconciled 1. Took 31 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:42.372
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:42.375
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:42.378
+!MESSAGE Validated 1. Took 82 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:42.946
+!MESSAGE Reconciled 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:43.237
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:43.303
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:44.116
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:44.117
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:44.119
+!MESSAGE Validated 1. Took 361 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:44.669
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:45.136
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:45.136
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:45.137
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:46.692
+!MESSAGE Reconciled 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:47.109
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:47.109
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:50:47.110
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:02.038
+!MESSAGE Reconciled 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:02.505
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:02.505
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:02.506
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:05.823
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:06.159
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:06.314
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:06.315
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:06.321
+!MESSAGE Validated 1. Took 41 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:07.236
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:07.267
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:07.761
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:07.763
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:07.767
+!MESSAGE Validated 1. Took 47 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:09.596
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:10.087
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:10.089
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:10.092
+!MESSAGE Validated 1. Took 42 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:27.106
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:27.184
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:27.651
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:27.652
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:27.654
+!MESSAGE Validated 1. Took 67 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:29.338
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:29.356
+!MESSAGE Reconciled 1. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:29.842
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:29.845
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:29.848
+!MESSAGE Validated 1. Took 40 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:30.992
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:31.482
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:31.483
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:31.487
+!MESSAGE Validated 1. Took 42 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:33.189
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:33.609
+!MESSAGE begin problem for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:33.609
+!MESSAGE 1 problems reported for /zaki.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:33.611
+!MESSAGE Validated 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:51:46.699
+!MESSAGE Clearing problems for /zaki.java

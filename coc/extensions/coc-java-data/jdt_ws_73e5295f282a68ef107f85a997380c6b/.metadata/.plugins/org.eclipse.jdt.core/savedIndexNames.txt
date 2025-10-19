@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+/home/zaki/.config/coc/extensions/coc-java-data/jdt_ws_73e5295f282a68ef107f85a997380c6b/.metadata/.plugins/org.eclipse.jdt.core
+3018271341.index
+1865797976.index

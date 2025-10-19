@@ -1,0 +1,33 @@
+[terminal.shell]
+program = "/usr/bin/zsh"
+[font]
+normal.family = "JetBrainsMono Nerd Font"
+bold.family = "JetBrainsMono Nerd Font"
+italic.family = "JetBrainsMono Nerd Font"
+size = 16.0
+[colors]
+primary.background = "#1e1e2e"
+primary.foreground = "#cdd6f4"
+
+[colors.cursor]
+text = "#1e1e2e"
+cursor = "#f5c2e7"
+
+[colors.selection]
+text = "#1e1e2e"
+background = "#f5c2e7"
+[window]
+padding.x = 16
+padding.y = 10
+decorations = "None"
+opacity = 0.93
+blur = true
+[cursor]
+style = "Beam"
+blink_interval = 600
+thickness = 0.2
+
+[scrolling]
+history = 10000
+multiplier = 3
+

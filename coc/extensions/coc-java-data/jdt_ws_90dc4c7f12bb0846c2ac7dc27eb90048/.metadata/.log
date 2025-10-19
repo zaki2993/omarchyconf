@@ -1,0 +1,174 @@
+!SESSION 2025-10-19 18:58:31.135 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/zaki/.config/coc/extensions/coc-java-data/jdt_ws_90dc4c7f12bb0846c2ac7dc27eb90048
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:39.250
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:39.493
+!MESSAGE Started org.eclipse.buildship.core 174ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:39.495
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:39.787
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:39.925
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:39.932
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:41.792
+!MESSAGE ProjectRegistryRefreshJob finished 2295ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:41.870
+!MESSAGE No workspace folders or root uri was defined. Falling back on /home/zaki/.config/coc/extensions/coc-java-data/jdt_ws_90dc4c7f12bb0846c2ac7dc27eb90048
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:41.992
+!MESSAGE Setting java.home /usr/lib/jvm/java-25-openjdk as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:42.007
+!MESSAGE Default VM Install changed from  1760896721925-/home/zaki/.config/coc/extensions/coc-java-data/jdk-23.0.2-linux-x64 to 1760896721989-/usr/lib/jvm/java-25-openjdk
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:42.059
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:42.077
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:42.078
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:42.106
+!MESSAGE RepositoryRegistryUpdateJob finished 1ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:42.138
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:42.177
+!MESSAGE Workspace initialized in 73ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:42.182
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:42.240
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:42.375
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:44.678
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:44.679
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:44.682
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:44.729
+!MESSAGE Reconciled 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:45.440
+!MESSAGE begin problem for /test.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:45.447
+!MESSAGE 4 problems reported for /test.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:45.477
+!MESSAGE Validated 1. Took 80 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:53.054
+!MESSAGE Reconciled 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:53.168
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:53.188
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:53.211
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:53.655
+!MESSAGE begin problem for /test.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:53.658
+!MESSAGE 4 problems reported for /test.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 18:58:53.662
+!MESSAGE Validated 1. Took 49 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:01:19.439
+!MESSAGE Reconciled 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:01:19.953
+!MESSAGE begin problem for /test.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:01:19.954
+!MESSAGE 1 problems reported for /test.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:01:19.957
+!MESSAGE Validated 1. Took 64 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:01:22.057
+!MESSAGE Clearing problems for /test.java
+!SESSION 2025-10-19 19:04:09.320 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/zaki/.config/coc/extensions/coc-java-data/jdt_ws_90dc4c7f12bb0846c2ac7dc27eb90048
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-10-19 19:04:13.658
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:16.420
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:16.663
+!MESSAGE Started org.eclipse.buildship.core 123ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:16.665
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:17.537
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:17.785
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:17.797
+!MESSAGE Initializing Java Language Server 1.45.0.202502271238
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:23.103
+!MESSAGE ProjectRegistryRefreshJob finished 6436ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:23.297
+!MESSAGE No workspace folders or root uri was defined. Falling back on /home/zaki/.config/coc/extensions/coc-java-data/jdt_ws_90dc4c7f12bb0846c2ac7dc27eb90048
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:23.379
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:23.382
+!MESSAGE Non-Static Commands: [java.project.import, java.project.changeImportedProjects, java.navigate.openTypeHierarchy, java.project.resolveStackTraceLocation, java.edit.handlePasteEvent, java.edit.stringFormatting, java.project.getSettings, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.project.createModuleInfo, java.vm.getAllInstalls, java.edit.organizeImports, java.project.refreshDiagnostics, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.updateSettings, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.project.resolveText, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.smartSemicolonDetection, java.project.updateSourceAttachment, java.project.updateClassPaths, java.decompile, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.updateJdk, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:23.549
+!MESSAGE RepositoryRegistryUpdateJob finished 15ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-10-19 19:04:23.767
+!MESSAGE Workspace initialized in 232ms
+!SESSION 2025-10-19 19:04:35.917 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=23.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/zaki/.config/coc/extensions/coc-java-data/jdt_ws_90dc4c7f12bb0846c2ac7dc27eb90048
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-10-19 19:04:39.928
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

@@ -1,0 +1,6 @@
+2025/10/19-19:26:59.385 49fe Creating DB /home/zaki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb since it was missing.
+2025/10/19-19:26:59.392 49fe Reusing MANIFEST /home/zaki/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/19-19:27:00.815 4a0b Level-0 table #5: started
+2025/10/19-19:27:00.819 4a0b Level-0 table #5: 2641 bytes OK
+2025/10/19-19:27:00.827 4a0b Delete type=0 #3
+2025/10/19-19:27:00.828 4a0b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

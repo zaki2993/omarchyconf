@@ -1,0 +1,6 @@
+2025/10/19-17:50:43.649 5 Reusing MANIFEST /home/zaki/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/10/19-17:50:43.659 5 Recovering log #30
+2025/10/19-17:50:43.661 5 Reusing old log /home/zaki/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000030.log 
+2025/10/19-17:51:07.237 7 Level-0 table #34: started
+2025/10/19-17:51:07.254 7 Level-0 table #34: 42748 bytes OK
+2025/10/19-17:51:07.263 7 Delete type=0 #30
